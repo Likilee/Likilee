@@ -2,6 +2,13 @@
 
 🌱 42Seoul 본과정 공부 중입니다 :)
 
+👯 인공지능 기술로 위대한 회사를 만들고 싶어요! 친구들이 필요해요
+(그건 바로 👉 YOU)
+
+---
+
+#### 🌕 ~ 2022.09.25 🌕 인공 지능 학회(ICML/NIPS)에 논문 제출!
+
 ``` c
 char	*goal = "인공 지능 학회(ICML/NIPS)에 논문 제출";
 
@@ -12,11 +19,12 @@ while (goal)
 	printf("Keep going");
 }
 ```
+##### 🌘 ~ 2020.01.03 🌘 Step1_기본기 만들기!
+- [ ] 42cursus_core_quest 뿌시기
+##### 🌗 ~ 2020.07.03 🌗 Step2_AI_Study!
+- [ ] comming soon~
 
-👯 인공지능 기술로 위대한 회사를 만들고 싶어요! 친구들이 필요해요 :)
-
-(그건 바로 👉 YOU)
-
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Likilee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
