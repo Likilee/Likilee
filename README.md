@@ -25,7 +25,7 @@ while (goal)
 - [ ] comming soon~
 
 ---
-
+[![kilee's 42 stats](https://badge42.herokuapp.com/api/stats/kilee)](https://github.com/JaeSeoKim/badge42)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Likilee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 깃 레포 블록 붙여서 표기 // 안에 href 영역 링크와 src 영역 링크 해당 레포로 수정
