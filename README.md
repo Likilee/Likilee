@@ -1,28 +1,9 @@
 ### 안녕하세요 👋
 
-🌱 42Seoul 본과정 공부 중입니다 :)
+🌱 창업가이자 개발자인 이기훈 kilee 입니다.
 
-👯 인공지능 기술로 위대한 회사를 만들고 싶어요! 친구들이 필요해요
+👯 일하는 사람들이 즐거운 회사를 만들고 싶어요! 친구들이 필요해요
 (그건 바로 👉 YOU)
-
----
-
-#### 🌕 ~ 2022.09.25 🌕 인공 지능 학회(ICML/NIPS)에 논문 제출!
-
-``` c
-char	*goal = "인공 지능 학회(ICML/NIPS)에 논문 제출";
-
-while (goal)
-{
-	if (done())
-		break;
-	printf("Keep going");
-}
-```
-##### 🌘 ~ 2021.01.03 🌘 Step1_기본기 만들기!
-- [ ] 42cursus_core_quest 뿌시기
-##### 🌗 ~ 2021.07.03 🌗 Step2_AI_Study!
-- [ ] comming soon~
 
 ---
 [![kilee's 42 stats](https://badge42.herokuapp.com/api/stats/kilee)](https://github.com/JaeSeoKim/badge42)
