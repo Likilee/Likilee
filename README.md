@@ -1,9 +1,6 @@
 ### 안녕하세요 👋
 
-🌱 창업가이자 개발자인 이기훈 kilee 입니다.
-
-👯 일하는 사람들이 즐거운 회사를 만들고 싶어요! 친구들이 필요해요
-(그건 바로 👉 YOU)
+🌱 2년 차 프론트엔드 개발자 이기훈 kilee 입니다.
 
 ---
 <!-- [![kilee's 42 stats](https://badge42.vercel.app/api/v2/cl1n2zx6d000609mltcheegzv/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42) -->
