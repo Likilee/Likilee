@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-🌱 2년 차 프론트엔드 개발자 이기훈 kilee 입니다.
+🌱 쓸 모 있는 거 만드는 걸 좋아하는 개발자 이기훈 kilee 입니다.
 
 ---
 <!-- [![kilee's 42 stats](https://badge42.vercel.app/api/v2/cl1n2zx6d000609mltcheegzv/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42) -->
